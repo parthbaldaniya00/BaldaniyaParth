@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **parthbaldaniya09@gmail.com**
+- 📫 How to reach me **parthbaldaniya2025@gmail.com**
 
 - 📄 My Resume [Parth_Baldaniya_Resume](https://drive.google.com/file/d/1MAO2sRaC4phCZ3Nr2BKpN_HsFkSiCCLJ/view)
 
