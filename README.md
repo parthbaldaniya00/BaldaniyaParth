@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm BaldaniyaParth</h1>
-<h3 align="center">Entry-level MERN Stack Developer skilled in MERN Stack technologies including C, Java, HTML, CSS, JavaScript, Node.js, Express.js, EJS, React.js, Redux, MongoDB, and MySQL.</h3>
+<h1 align="center">Hi 👋, I'm Parth Baldaniya</h1>
+<h3 align="center">Entry-level Full Stack Developer skilled in MERN Stack technologies including C, Java, HTML, CSS, JavaScript, Node.js, Express.js, EJS, React.js, Redux, MongoDB, Typescript, Next.js and SQL.</h3>
 
 - 👨‍💻 All of my projects are available at [https://parth-baldaniya-portfolio.vercel.app/](https://parth-baldaniya-portfolio.vercel.app/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **parthbaldaniya9090@gmail.com**
 
